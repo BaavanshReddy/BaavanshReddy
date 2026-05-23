@@ -17,7 +17,7 @@ I build things at the intersection of systems and intelligence — from low-leve
 - 🔬 Co-authored a **NeurIPS 2026** paper on LLM factual QA evaluation — found hallucination is rarer than the field assumes
 - 🧠 Built a **3-layer neural network from scratch** (manual backprop, no frameworks) — 89% accuracy on face recognition
 - ⚙️ Implemented a full **RISC-V CPU simulator** in C with cache simulation and memory hierarchy
-- 🎓 Former **NCAA Division I** Crew athlete (Rutgers)
+
 
 ---
 
