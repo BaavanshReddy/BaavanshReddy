@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Baavansh 👋</h1>
 
 <p align="center">
-  CS Senior @ Rutgers University &nbsp;•&nbsp; Backend & AI/ML Engineering &nbsp;•&nbsp; GPA 3.72 &nbsp;•&nbsp; Dean's List
+  CS Graduate @ Rutgers University &nbsp;•&nbsp; Backend & AI/ML Engineering &nbsp;•&nbsp; GPA 3.72 &nbsp;•&nbsp; Dean's List
 </p>
 
 <p align="center">
